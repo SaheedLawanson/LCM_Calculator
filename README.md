@@ -1,9 +1,9 @@
 # LCM
 
-Built with
+# Built with
 - JavaScript
 
-Overview
+# Overview
 An LCM (Lowest Common Multiple) of a set of numbers is the lowest number that is divisible by all the numbers in that set.
 For example: LCM of 2, 4, 10 is 20, numbers: 40, 80, 100 are CMs (common multiples) but not the LCM.
 
@@ -12,7 +12,7 @@ all numbers between the item with the lower value and the item with the higher v
 LCM of 1, 2, 3, 4, and 5
 
 
-Algorithm
+# Algorithm
 1. We define a function (recursive) that takes in two integers (a and b) and recursively calculates the product of all numbers
    between a and b with a & b inclusive
 
